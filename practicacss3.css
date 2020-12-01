@@ -1,0 +1,20 @@
+.bold {
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+#myDiv {
+	font-family: Georgia;
+	font-size: 2em;
+}
+
+#mySpan {
+	font-family: Arial;
+}
+
+#mySpan a {
+	text-decoration: none;
+}
